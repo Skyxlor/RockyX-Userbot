@@ -1,4 +1,4 @@
-![20230312_175518](https://user-images.githubusercontent.com/90479255/224540113-fe730120-64e1-44d4-90ca-000c23cd3796.jpg)
+![20230312_175518](https://telegra.ph/file/d3f3449f95b5f6088fe13.jpg)
 
 <h2 align="center"> 🐯 RockyX-Userbot 🐯</h2> 
 
