@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd /app
+
+echo """
+
+LODA
+"""
+
+gunicorn -b :5000 --reload --access-logfile - --error-logfile - app:app

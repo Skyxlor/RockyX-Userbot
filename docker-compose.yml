@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  RockyX:
+      build:
+        context: https://github.com/Skyxlor/RockyX-Userbot.git#dev
+      restart: on-failure
+      env_file:
+        - config.ini
