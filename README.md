@@ -1,6 +1,6 @@
 ![20230312_175518](https://telegra.ph/file/d3f3449f95b5f6088fe13.jpg)
 
-<h2 align="center"> 🐯 RockyX-Userbot 🐯</h2> 
+<h2 align="center"> 😇 RockyX-Userbot 😇</h2> 
 
 ![Repo Size](https://img.shields.io/github/repo-size/Skyxlor/RockyX-Userbot)
 ![License](https://img.shields.io/github/license/Skyxlor/RockyX-Userbot)
@@ -143,9 +143,3 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ## 🧑‍💻 Credits 🧑‍💻
 * [![Skyxlor-Devs](https://img.shields.io/static/v1?label=Skyxlor&message=devs&color=critical)](https://t.me/M3_4_U)
-* [Dan](https://github.com/pyrogram/) for [Pyrogram.](https://github.com/pyrogram/pyrogram)
-* [Zaid](https://github.com/ITZ-ZAID/) for [Zaid-Userbot](https://github.com/ITZ-ZAID/ZAID-USERBOT)
-* [mrismanaziz](https://github.com/mrismanaziz/) for [Pyroman-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)
-* [UsergeTeam](https://github.com/UsergeTeam/) for [Userge](https://github.com/UsergeTeam/Userge)
-* [TeamDerUntergang](https://github.com/TeamDerUntergang/) for [Telegram-SedenUserbot](https://github.com/TeamDerUntergang/Telegram-SedenUserBot)
-* [TeamUltroid](https://github.com/TeamUltroid/) for [Ultroid](https://github.com/TeamUltroid/Ultroid)
